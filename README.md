@@ -2,7 +2,7 @@
 
 ![Profile Image](이미지_링크를_여기에_삽입해주세요)
 
-취미는 **이력서 업데이트**, 특기는 **데이터 분석**입니다. [여기에 소개 문장을 추가할 수 있습니다.]
+데이터와 친해지고 있는 
 
 📧 **Email**: donginterran@naver.com
 
@@ -13,9 +13,28 @@
 - [기술이나 툴, 분야 등 학습 중인 주제를 추가하세요.]
 
 ## 🛠 보유 스킬
-- **데이터 분석**: [데이터 분석 관련 주요 기술 및 경험을 여기에 추가하세요.]
-- **SQL**: [SQL 관련 주요 기술 및 경험을 여기에 추가하세요.]
-- **GTM, GA4**: [GTM과 GA4 관련 주요 기술 및 경험을 여기에 추가하세요.]
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+### Frameworks / Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004A99?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-004A99?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFC107?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+### Server
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### OA
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ## 📂 프로젝트
 - **프로젝트 이름 1**: [간단한 설명 추가]
@@ -34,7 +53,3 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark)](https://github.com/DonginJeon)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DonginJeon&theme=dark)](https://github.com/DonginJeon)
-
----
-
-
