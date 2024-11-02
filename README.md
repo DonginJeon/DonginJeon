@@ -50,7 +50,7 @@
 ## 🎸 취미
 - **영화**와 **음악**을 즐깁니다.
 - 공부를 하며 저의 스트레스를 해소해주는 친구들입니다. 특히 기타치는 것을 좋아하고 지금도 간간히 치는 중입니다:):  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](유튜브_링크를_여기에_삽입해주세요)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/x2lcoxabpVk?si=M6IMlwey_YTB3NDW)
 
 ---
 
