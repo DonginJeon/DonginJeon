@@ -1,10 +1,10 @@
-# 안녕하세요, 하루하루 성장 중인 동인입니다.
+# <br>🧑‍💻📚 안녕하세요, 하루하루 성장 중인 동인입니다.
 
 ![Profile Image](이미지_링크를_여기에_삽입해주세요)
 
 데이터와 친해지고 있는 
 
-📧 **Email**: donginterran@naver.com
+[![Email](https://img.shields.io/badge/Email-donginterran%40naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:donginterran@naver.com)
 
 ---
 
@@ -47,9 +47,9 @@
 - **프로젝트 이름 3**: [간단한 설명 추가]
 
 ## 🎸 취미
-- **영화**와 **음악**을 사랑하는 사람입니다:)
-- 기타 연주를 매우 좋아하고 지금도 저의 활력소 중의 하나입니다.
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/x2lcoxabpVk?si=M6IMlwey_YTB3NDW)
+- **영화**와 **음악**을 즐깁니다.
+- 기타 연주를 좋아하며, 연주 영상을 유튜브에 올리고 있습니다:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](유튜브_링크를_여기에_삽입해주세요)
 
 ---
 
