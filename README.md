@@ -49,7 +49,7 @@
 ## 🎸 취미
 - **영화**와 **음악**을 사랑하는 사람입니다:)
 - 기타 연주를 매우 좋아하고 지금도 저의 활력소 중의 하나입니다.
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([유튜브_링크를_여기에_삽입해주세요](https://youtu.be/x2lcoxabpVk?si=M6IMlwey_YTB3NDW))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/x2lcoxabpVk?si=M6IMlwey_YTB3NDW)
 
 ---
 
