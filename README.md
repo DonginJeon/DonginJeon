@@ -4,8 +4,7 @@
 
 취미는 **이력서 업데이트**, 특기는 **데이터 분석**입니다. [여기에 소개 문장을 추가할 수 있습니다.]
 
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🔗 **SNS**: [LinkedIn 프로필](https://www.linkedin.com/in/your-profile)
+📧 **Email**: donginterran@naver.com
 
 ---
 
