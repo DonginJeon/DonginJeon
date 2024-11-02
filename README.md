@@ -1,4 +1,4 @@
-# <br>🧑‍💻📚 Hello, I am Dongin, growing every day.
+# <br>🧑‍💻📚 하루하루 성장하는 동인입니다.
 
 ![Profile Image](Insert_Image_Link_Here)
 
