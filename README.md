@@ -2,7 +2,7 @@
 
 ![Profile Image](이미지_링크를_여기에_삽입해주세요)
 
-데이터와 친해지고 있는 
+데이터와 에듀테크에 관심이 많습니다. 
 
 [![Email](https://img.shields.io/badge/Email-donginterran%40naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:donginterran@naver.com)
 
