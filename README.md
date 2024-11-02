@@ -11,9 +11,9 @@ I am interested in data and EdTech.
 ## ✏️ Currently Learning
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"><br>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"><br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"><br><br>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"><br><br>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"><br><br>
     <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM Badge">
 </div>
 
@@ -21,30 +21,30 @@ I am interested in data and EdTech.
 
 <div align="center">
     <h3>Languages</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"><br>
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Badge"><br>
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"><br><br>
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Badge"><br><br>
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"><br><br>
 
     <h3>Frameworks / Libraries</h3>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge"><br>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge"><br>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge"><br>
-    <img src="https://img.shields.io/badge/Matplotlib-004A99?style=flat" alt="Matplotlib Badge"><br>
-    <img src="https://img.shields.io/badge/Seaborn-004A99?style=flat" alt="Seaborn Badge"><br>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"><br>
-    <img src="https://img.shields.io/badge/BeautifulSoup-FFC107?style=flat" alt="BeautifulSoup Badge"><br>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium Badge"><br>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge"><br><br>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge"><br><br>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge"><br><br>
+    <img src="https://img.shields.io/badge/Matplotlib-004A99?style=flat" alt="Matplotlib Badge"><br><br>
+    <img src="https://img.shields.io/badge/Seaborn-004A99?style=flat" alt="Seaborn Badge"><br><br>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"><br><br>
+    <img src="https://img.shields.io/badge/BeautifulSoup-FFC107?style=flat" alt="BeautifulSoup Badge"><br><br>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium Badge"><br><br>
 
     <h3>Server</h3>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"><br>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge"><br><br>
 
     <h3>Office Applications</h3>
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge"><br>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge"><br><br>
 
     <h3>Tooling / DevOps</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"><br>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"><br>
-    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="Sourcetree Badge"><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge"><br><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"><br><br>
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="Sourcetree Badge"><br><br>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion Badge">
 </div>
 
@@ -72,8 +72,16 @@ I am interested in data and EdTech.
 
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark)](https://github.com/DonginJeon)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark)](https://github.com/DonginJeon)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DonginJeon&theme=dark)](https://github.com/DonginJeon)
+<div align="center">
+    <a href="https://github.com/DonginJeon">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark" alt="Most Used Languages">
+    </a>
+    <br><br>
+    <a href="https://github.com/DonginJeon">
+        <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark" alt="GitHub Stats">
+    </a>
+    <br><br>
+    <a href="https://github.com/DonginJeon">
+        <img src="https://streak-stats.demolab.com/?user=DonginJeon&theme=dark" alt="GitHub Streak">
+    </a>
+</div>
