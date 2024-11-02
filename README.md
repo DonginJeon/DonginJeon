@@ -30,7 +30,6 @@
 
 ---
 
-## GitHub 통계
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark)](https://github.com/DonginJeon)
 
@@ -38,6 +37,4 @@
 
 ---
 
-## 기여 그래프
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DonginJeon&theme=github)
