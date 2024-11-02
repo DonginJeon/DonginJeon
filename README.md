@@ -4,7 +4,7 @@
 
 I am interested in data and EdTech.
 
-[![Email](https://img.shields.io/badge/Email-donginterran%40naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:donginterran@naver.com)
+[![Email](https://img.shields.io/badge/Email-donginterran%40naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:donginterran@naver.com)
 
 ---
 
