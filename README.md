@@ -32,12 +32,12 @@
 
 ## GitHub 통계
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름&layout=compact&theme=dark)](https://github.com/사용자이름)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark)](https://github.com/DonginJeon)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자이름&show_icons=true&theme=dark)](https://github.com/사용자이름)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark)](https://github.com/DonginJeon)
 
 ---
 
 ## 기여 그래프
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=사용자이름&theme=github)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DonginJeon&theme=github)
