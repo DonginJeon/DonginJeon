@@ -54,7 +54,7 @@ I am interested in data and EdTech.
 
 ## 🎸 Hobbies
 
-> 🎶 영화와 음악을 사랑하는 사람입니다.
+> 🎶 **영화**와 **음악**을 사랑하는 사람입니다.
 
 - 🎬 **Movies**: **스타워즈** 시리즈를 좋아합니다.  
   <img src="./image.png" alt="Star Wars" width="200"/>
