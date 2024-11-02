@@ -29,10 +29,11 @@
 
 ---
 
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark)](https://github.com/DonginJeon)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark)](https://github.com/DonginJeon)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DonginJeon&theme=dark)](https://github.com/DonginJeon)
 
 ---
 
