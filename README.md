@@ -9,8 +9,12 @@ I am interested in data and EdTech.
 ---
 
 ## ✏️ Currently Learning
-- [여기에 현재 학습하고 있는 내용을 작성하세요.]
-- [기술이나 툴, 분야 등 학습 중인 주제를 추가하세요.]
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white)
+
 
 ## 🛠 Skills
 
