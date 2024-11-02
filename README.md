@@ -2,7 +2,7 @@
 
 ![Profile Image](Insert_Image_Link_Here)
 
-I am interested in data and EdTech.
+데이터와 에듀테크에 관심이 많습니다!
 
 [![Email](https://img.shields.io/badge/Email-donginterran%40naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:donginterran@naver.com)
 
