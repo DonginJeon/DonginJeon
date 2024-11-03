@@ -72,27 +72,16 @@
 
 ## 📊 GitHub Stats
 
-<!-- Most Used Languages -->
-<a href="https://github.com/DonginJeon" align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark" alt="Most Used Languages" width="450"/>
-</a>
-
-<!-- GitHub Stats -->
-<a href="https://github.com/DonginJeon" align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-</a>
-<br><br>
-
-<div align="center">
-    <!-- GitHub Streak -->
-    <a href="https://github.com/DonginJeon">
-       <img src="https://streak-stats.demolab.com/?user=DonginJeon&theme=dark" alt="GitHub Streak" width="450"/>
-    </a>
-    
-    <!-- Contribution Graph -->
-    <a href="https://github.com/DonginJeon">
-       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DonginJeon&theme=github" alt="Contribution Graph" width="700"/>
-    </a>
-</div>
+<p align="center">
+  <a href="https://github.com/online5880/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+  </a>    
+  <a href="https://github.com/online5880/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
+  </a>
+  <a href="https://github.com/online5880/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonginJeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+  </a>
+</p>
 
 ---
