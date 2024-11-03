@@ -68,6 +68,7 @@
 - 🎸 **Music**: 공부를 하며 저의 스트레스를 해소해주는 친구들입니다. 특히 기타 치는 것을 좋아하고 지금도 간간히 연주하고 있습니다. 😊  
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/x2lcoxabpVk?si=M6IMlwey_YTB3NDW)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -87,11 +88,11 @@
     <a href="https://github.com/DonginJeon">
        <img src="https://streak-stats.demolab.com/?user=DonginJeon&theme=dark" alt="GitHub Streak" width="450"/>
     </a>
-
+    
     <!-- Contribution Graph -->
     <a href="https://github.com/DonginJeon">
        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DonginJeon&theme=github" alt="Contribution Graph" width="700"/>
     </a>
 </div>
 
-
+---
