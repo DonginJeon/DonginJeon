@@ -73,15 +73,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Most Used Languages in Donut Layout -->
   <a href="https://github.com/online5880/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=donut&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&icon_color=9b59b6&text_color=ecf0f1&title_color=e74c3c&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
   </a>    
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/online5880/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&icon_color=9b59b6&text_color=ecf0f1&title_color=e74c3c&count_private=true" width="56%" />
   </a>
+
+  <!-- GitHub Contribution Activity Graph -->
   <a href="https://github.com/online5880/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonginJeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonginJeon&theme=github-dark&bg_color=1a1b27&hide_border=true&line=3498db&color=e74c3c" width="94%"/>
   </a>
 </p>
 
 ---
+
