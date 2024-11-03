@@ -72,15 +72,36 @@
 ---
 
 <div align="center">
-    <a href="https://github.com/DonginJeon">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark" alt="Most Used Languages">
-    </a>
-    <br><br>
-    <a href="https://github.com/DonginJeon">
-        <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark" alt="GitHub Stats">
-    </a>
-    <br><br>
-    <a href="https://github.com/DonginJeon">
-        <img src="https://streak-stats.demolab.com/?user=DonginJeon&theme=dark" alt="GitHub Streak">
-    </a>
+    <h2>📊 GitHub Stats</h2>
+    
+   <!-- Most Used Languages -->
+   <a href="https://github.com/DonginJeon">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonginJeon&layout=compact&theme=dark" alt="Most Used Languages" width="400"/>
+   </a>
+   <br><br>
+
+   <!-- GitHub Stats -->
+   <a href="https://github.com/DonginJeon">
+       <img src="https://github-readme-stats.vercel.app/api?username=DonginJeon&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
+   </a>
+   <br><br>
+
+   <!-- GitHub Streak -->
+   <a href="https://github.com/DonginJeon">
+       <img src="https://streak-stats.demolab.com/?user=DonginJeon&theme=dark" alt="GitHub Streak" width="400"/>
+   </a>
+   <br><br>
+
+   <!-- Additional Metrics -->
+   <a href="https://github.com/DonginJeon">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonginJeon&theme=dark" alt="Profile Details" width="400"/>
+   </a>
+   <br><br>
+
+   <!-- Contribution Graph -->
+   <a href="https://github.com/DonginJeon">
+       <img src="https://activity-graph.herokuapp.com/graph?username=DonginJeon&theme=github" alt="Contribution Graph" width="700"/>
+   </a>
 </div>
+
+---
