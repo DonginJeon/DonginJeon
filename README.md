@@ -69,11 +69,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/x2lcoxabpVk?si=M6IMlwey_YTB3NDW)
 
 
----
-
-<div align="center">
-    <h2>📊 GitHub Stats</h2>
-</div>
+## 📊 GitHub Stats
 
 <!-- Most Used Languages -->
 <a href="https://github.com/DonginJeon" align="left">
@@ -94,9 +90,8 @@
 
     <!-- Contribution Graph -->
     <a href="https://github.com/DonginJeon">
-       <img src="https://activity-graph.herokuapp.com/graph?username=DonginJeon&theme=github" alt="Contribution Graph" width="700"/>
+       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DonginJeon&theme=github" alt="Contribution Graph" width="700"/>
     </a>
 </div>
 
----
 
