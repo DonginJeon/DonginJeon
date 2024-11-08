@@ -17,17 +17,21 @@
     <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM Badge">
 </div>
 
-## 🛠 Skills
+---
 
-### Languages
-<div align="center">
+### 🛠 Skills
+
+#### Languages
+<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R Badge">
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge">
 </div>
 
-### Frameworks / Libraries
-<div align="center">
+---
+
+#### Frameworks / Libraries
+<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge">
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge">
@@ -38,18 +42,24 @@
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium Badge">
 </div>
 
-### Server
-<div align="center">
+---
+
+#### Server
+<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
 </div>
 
-### Office Applications
-<div align="center">
+---
+
+#### Office Applications
+<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
 </div>
 
-### Tooling / DevOps
-<div align="center">
+---
+
+#### Tooling / DevOps
+<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge">
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="Sourcetree Badge">
@@ -58,6 +68,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion Badge">
 </div>
 
+---
 
 ## 👀 Interests
 
