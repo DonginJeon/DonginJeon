@@ -1,7 +1,12 @@
 <div align="center">
-    <h2>🧑‍💻 매일매일 성장하는 동인입니다:)</h2>
-    <p>데이터분석과 에듀테크에 관심이 많습니다!!</p>
-    <p><a href="mailto:donginterran@naver.com"><img src="https://img.shields.io/badge/Email-donginterran%40naver.com-03C75A?style=flat&logo=naver&logoColor=white"></a></p>
+    <h2>🧑‍💻 매일매일 성장하는 동인입니다 :)</h2>
+    <p style="font-size: 1.2em; font-weight: bold;">데이터분석과 에듀테크에 관심이 많습니다!!</p>
+    
+    <h3>📧 Contact</h3>
+    <p>
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"> donginterran@naver.com<br>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"> donginterran@gmail.com
+    </p>
 </div>
 
 ---
