@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
     <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM Badge">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
 </div>
 
 ---
