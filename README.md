@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>🧑‍💻 Growing Every Day</h2>
+    <h2>🧑‍💻 매일매일 성장하는 동인입니다:)</h2>
     <p>데이터분석과 에듀테크에 관심이 많습니다!!</p>
     <p><a href="mailto:donginterran@naver.com"><img src="https://img.shields.io/badge/Email-donginterran%40naver.com-03C75A?style=flat&logo=naver&logoColor=white"></a></p>
 </div>
