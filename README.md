@@ -44,6 +44,7 @@
     <img src="https://img.shields.io/badge/Matplotlib-004A99?style=flat" alt="Matplotlib 배지">
     <img src="https://img.shields.io/badge/Seaborn-004A99?style=flat" alt="Seaborn 배지">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow 배지">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn 배지">
     <img src="https://img.shields.io/badge/BeautifulSoup-FFC107?style=flat" alt="BeautifulSoup 배지">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium 배지">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFAA00?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face 배지">
