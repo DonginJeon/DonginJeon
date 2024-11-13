@@ -71,10 +71,8 @@
 ---
 
 #### Office Applications
-<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel 배지">
+<div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;"> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel 배지"> <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" alt="Microsoft Word 배지"> <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint 배지"> 
 </div>
-
 ---
 
 #### Tooling / DevOps
