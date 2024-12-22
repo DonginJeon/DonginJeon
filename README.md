@@ -17,14 +17,12 @@
 ### ✏️ Currently Learning
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes Badge">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-    <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white" alt="LLM Badge">
-    <img src="https://img.shields.io/badge/YOLOv8-FF0000?style=flat&logo=opencv&logoColor=white" alt="YOLOv8 Badge">
-    <img src="https://img.shields.io/badge/GraphRAG-5C2D91?style=flat&logo=microsoft&logoColor=white" alt="GraphRAG Badge">
-    <img src="https://img.shields.io/badge/GraphDB-0054A5?style=flat&logo=neo4j&logoColor=white" alt="GraphDB Badge">
-    <img src="https://img.shields.io/badge/AI--Agent-8B00FF?style=flat&logo=ai-agent&logoColor=white" alt="AI-Agent Badge">
+    <img src="https://img.shields.io/badge/Networking-0096D6?style=flat&logo=windows&logoColor=white" alt="Networking Badge">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
+    <img src="https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white" alt="CI/CD Badge">
+    <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white" alt="MLOps Badge">
 </div>
 
 
@@ -84,6 +82,7 @@
 
 #### Tooling / DevOps
 <div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git 배지">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub 배지">
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="Sourcetree 배지">
