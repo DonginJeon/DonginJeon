@@ -23,7 +23,11 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
     <img src="https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white" alt="CI/CD Badge">
     <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white" alt="MLOps Badge">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge">
+    <img src="https://img.shields.io/badge/Model%20Serving-FFD700?style=flat&logo=tensorflow&logoColor=white" alt="Model Serving Badge">
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow Badge">
 </div>
+
 
 
 
