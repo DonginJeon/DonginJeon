@@ -65,7 +65,9 @@
 <div align="center" style="border-top: 1px solid #e0e0e0; padding-top: 10px;">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS 배지">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu 배지">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux 배지">
 </div>
+
 
 ---
 
