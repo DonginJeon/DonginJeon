@@ -1,6 +1,5 @@
 <div align="left">
-    <h2>🧑‍💻 매일매일 성장하는 동인입니다 :)</h2>
-    <p>안녕하세요! "<em>데이터 분석과 에듀테크</em>"에 관심이 많은 전동인입니다!!<br>
+    <h2>🧑‍💻 하루하루 열심히 성장하는 동인입니다 :)</h2>
  </p>
 
 
@@ -17,17 +16,17 @@
 ### ✏️ Currently Learning
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge">
+    <!-- AWS -->
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+    <!-- CS (임의 색상 예시) -->
+    <img src="https://img.shields.io/badge/CS-000000?style=flat&logo=github&logoColor=white" alt="CS Badge">
+    <!-- Networking -->
     <img src="https://img.shields.io/badge/Networking-0096D6?style=flat&logo=windows&logoColor=white" alt="Networking Badge">
+    <!-- Docker -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/CI%2FCD-239120?style=flat&logo=gitlab&logoColor=white" alt="CI/CD Badge">
-    <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white" alt="MLOps Badge">
+    <!-- Linux -->
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge">
-    <img src="https://img.shields.io/badge/Model%20Serving-FFD700?style=flat&logo=tensorflow&logoColor=white" alt="Model Serving Badge">
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow Badge">
 </div>
-
 
 
 
